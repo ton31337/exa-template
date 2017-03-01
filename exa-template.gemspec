@@ -9,6 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ['README.md', 'exa-template.gemspec', 'lib/exa-template.rb']
   s.homepage    = 'http://rubygems.org/gems/exazk'
   s.license     = 'MIT'
-  s.add_runtime_dependency 'erb'
   s.add_runtime_dependency 'json'
 end
