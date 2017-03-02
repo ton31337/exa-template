@@ -12,7 +12,7 @@
 require 'exa-template'
 
 ExaTemplate.new('/etc/exa-template/service.cfg.erb',
-        '/etc/servicex/service.cfg').parse_events
+		'/etc/servicex/service.cfg').parse_events
 ```
 
 #### Hash example
