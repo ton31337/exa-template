@@ -4,6 +4,8 @@
 * Generate hash of arrays of IP addresses by port as a key;
 * Generate custom template reusing `services` hash.
 
+![exa-template](/exa-tempalte.png)
+
 #### Usage
 
 * gem install exa-template
